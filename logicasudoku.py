@@ -17,6 +17,3 @@ class Cuerpo():
     def imprimirtabla(self):
         print(self.cuerpo)
 
-cuerposu = Cuerpo()
-cuerposu.iniciarcuerpo()
-cuerposu.imprimirtabla()
